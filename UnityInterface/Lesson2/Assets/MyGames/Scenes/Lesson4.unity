@@ -3197,7 +3197,7 @@ MonoBehaviour:
   - {fileID: 1467733528}
   speedVerical: 10
   speedHorizontal: 10
-  mode: 0
+  mode: 1
 --- !u!4 &2099053744 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: da3f0fac71716b84ca6ca86a4ffb58dd, type: 3}
