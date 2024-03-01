@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class CarMovement : MonoBehaviour
 {
-    public float speed = 2f;
+    public float speed = 25f;
     public Transform[] points;
     private int currentPoint;
-    public float speedVerical = 10;
-    public float speedHorizontal = 10;
+    public float speedVerical = 20;
+    public float speedHorizontal = 20;
     // Start is called before the first frame update
     public enum Mode
     {
