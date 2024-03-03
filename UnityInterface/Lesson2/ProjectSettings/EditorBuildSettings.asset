@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MyGames/Scenes/Lesson6.unity
-    guid: e67f08d9dd8a227468dd2e92b6d5f553
+    path: Assets/MyGames/Scenes/Lesson7/HomeScene.unity
+    guid: df03388d4e3dab84595540a72d74689c
+  - enabled: 1
+    path: Assets/MyGames/Scenes/Lesson7/GarageScene.unity
+    guid: 99b7b2635d50dc64b9373d806f0657d8
+  - enabled: 1
+    path: Assets/MyGames/Scenes/Lesson7/StorageScene.unity
+    guid: 3a9ebf31e0113f848982269c39cf1cab
   m_configObjects: {}
